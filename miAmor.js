@@ -66,7 +66,7 @@ form.addEventListener("submit", function(event) {
     // Comprobamos si todas las respuestas son correctas
     if (numCorrectAnswers === correctAnswers.length) {
 
-    window.location.href = "index.html";
+    window.location.href = "card.html";
     }
     });
 
